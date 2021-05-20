@@ -1,6 +1,0 @@
-D:\Src\Multithreading_Demo\AwaitAsyncLibrary\bin\Debug\AwaitAsyncLibrary.dll
-D:\Src\Multithreading_Demo\AwaitAsyncLibrary\bin\Debug\AwaitAsyncLibrary.pdb
-D:\Src\Multithreading_Demo\AwaitAsyncLibrary\obj\Debug\AwaitAsyncLibrary.csproj.CoreCompileInputs.cache
-D:\Src\Multithreading_Demo\AwaitAsyncLibrary\obj\Debug\AwaitAsyncLibrary.dll
-D:\Src\Multithreading_Demo\AwaitAsyncLibrary\obj\Debug\AwaitAsyncLibrary.pdb
-D:\Src\Multithreading_Demo\AwaitAsyncLibrary\obj\Debug\AwaitAsyncLibrary.csprojAssemblyReference.cache
